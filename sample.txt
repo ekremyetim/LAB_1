@@ -1,0 +1,6 @@
+This is a paragraph for the lab assignment.  
+We are learning how to read text files using JavaScript.  
+Node.js makes it easy with its built-in modules.  
+Working with asynchronous functions is efficient.  
+This will help us handle file operations better.  
+Let's continue exploring more Node.js features.
